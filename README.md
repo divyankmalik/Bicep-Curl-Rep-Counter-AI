@@ -25,6 +25,6 @@ The main display shows the live camera feed, and the repetition counter updates 
 
 Frame Capture and Display: I used OpenCV to capture frames from the camera and display them on the Tkinter canvas. The repetition counter on the GUI updates whenever the model detects a rep (from extended to contracted).
 
-Through this project, I successfully combined image processing, machine learning, and GUI design to create an interactive bicep curl rep counter. It was a great learning experience, and I’m pleased with the final result!
+Through this project, I successfully combined image processing, machine learning, artificial intelligence and GUI design to create an interactive bicep curl rep counter. It was a great learning experience, and I’m pleased with the final result!
 
 
