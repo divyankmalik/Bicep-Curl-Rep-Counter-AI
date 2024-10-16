@@ -5,9 +5,13 @@ This AI-powered model, developed in Python, accurately tracks and counts repetit
 Extension
 ![Screenshot 2024-10-15 231028](https://github.com/user-attachments/assets/62b671b0-5438-4014-abd1-38c821ffe61d)
 Contraction
+![Screenshot 2024-10-15 231123](https://github.com/user-attachments/assets/fcf359a9-15cd-4619-9527-33ed7bfce9c6)
+Model Trained
 
 ![Screenshot 2024-10-15 231146](https://github.com/user-attachments/assets/429fed59-533f-4127-b91b-7cd23edc4daf)
+Starts Counting Reps with Prediction for each frame
 
-![Screenshot 2024-10-15 231123](https://github.com/user-attachments/assets/fcf359a9-15cd-4619-9527-33ed7bfce9c6)
+
+
 
 
